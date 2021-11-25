@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.thinkbridge</groupId>
 	<artifactId>shopbridge</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>shopbridge</name>
 	<description>Think Bridge Assignment</description>
 	<properties>
